@@ -22,7 +22,7 @@ const cards = [
   },
   {
     id: 2,
-    title: "Mountain Biking",
+    title: "DUVETICA",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     image: "/icons/mountain.svg",
   },
