@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 const cards = [
   {
     id: 1,
-    title: "Discovery123",
+    title: "Discovery12345",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     image: "/icons/discovery.svg",
   },
